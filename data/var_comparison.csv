@@ -1,0 +1,3 @@
+Method,Violation Rate,Distance from 5%,Number of Violations
+Dynamic VaR,0.06526315789473684,0.01526315789473684,31
+Rolling Historical VaR,0.05263157894736842,0.0026315789473684154,25
