@@ -250,5 +250,5 @@ This project applies concepts from:
 # Author
 
 **Shawn Wen**  
-Applied Mathematics & Economics — Data Science  
+Applied Mathematics — Data Science & Financial Economics 
 University of Washington
